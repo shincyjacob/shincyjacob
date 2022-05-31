@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shincyjacob
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Anlaytics tools
-- 💞️ I’m looking to find an opportunity to grow
+- 💞️ I’m looking out for opportunities to grow
 - 📫 jacobshincy@gmail.com
 
 <!---
